@@ -1,0 +1,8 @@
+Human: Hello, I ordered a laptop two days ago.
+AI: Hello! I'd be happy to help you with your order.
+Human: I want to know the delivery status of my order.
+AI: Sure. Please provide your order ID so I can help you check the status.
+Human: My order ID is ORD12345.
+AI: Thank you. Your order is currently being processed and is expected to be delivered within 3 to 5 business days.
+Human: Can I cancel the order?
+AI: Yes, you can cancel the order if it has not been shipped yet.
