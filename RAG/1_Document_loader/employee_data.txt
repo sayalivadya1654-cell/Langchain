@@ -1,0 +1,21 @@
+EMPLOYEE DATA
+=============
+
+Employee ID: E101
+Name: Rahul Sharma
+Department: Data Science
+Age: 24
+Salary: 45000
+City: Pune
+Experience: 2 years
+Skills: Python, SQL, Pandas
+
+Employee ID: E102
+Name: Priya Patil
+Department: Data Analytics
+Age: 26
+Salary: 52000
+City: Mumbai
+Experience: 3 years
+Skills: Python, Excel, SQL
+
